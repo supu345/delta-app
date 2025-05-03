@@ -95,11 +95,11 @@ const Footer = () => {
               </div>
               <div className="flex md:flex-row md:items-center sm:flex-col sm:items-center lg:items-start gap-2 pt-4">
                 <RiPhoneLine className="mt-1" />
-                <p>Call: (+880) 01911051199</p>
+                <p>Call: (+880) 01911264165</p>
               </div>
               <div className="flex md:flex-row md:items-center sm:flex-col sm:items-center lg:items-start gap-2 pt-4">
                 <MdOutlineMailOutline className="mt-1" />
-                <p>Email: rbmotorsdhaka@gmail.com</p>
+                <p>Email: hera@thenewdelta.com</p>
               </div>
             </div>
           </div>

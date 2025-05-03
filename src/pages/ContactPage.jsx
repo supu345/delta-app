@@ -130,7 +130,7 @@ const ContactPage = () => {
               <LuPhoneCall className="text-7xl bg-green-400 p-5 text-white" />
               <div>
                 <p className="text-xl font-bold">Call Us</p>
-                <p className="text-sm">123456789</p>
+                <p className="text-sm">01911264165</p>
               </div>
             </div>
           </div>
@@ -140,7 +140,7 @@ const ContactPage = () => {
 
               <div>
                 <p className="text-xl font-bold ">Email</p>
-                <p className="text-sm">example@email.com</p>
+                <p className="text-sm">hera@thenewdelta.com</p>
               </div>
             </div>
 
